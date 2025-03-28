@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.sdj</groupId>
+  <artifactId>demo</artifactId>
+  <versioning>
+    <lastUpdated>20250328104317</lastUpdated>
+    <snapshot>
+      <timestamp>20250328.104317</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20250328.104317-1</value>
+        <updated>20250328104317</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20250328.104317-1</value>
+        <updated>20250328104317</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.0.1-SNAPSHOT</version>
+</metadata>
