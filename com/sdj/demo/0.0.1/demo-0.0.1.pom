@@ -70,7 +70,7 @@
                     <repositoryName>testMavenProjectUpload</repositoryName>
                     <repositoryOwner>NeverCompromise-SDJ</repositoryOwner>
                     <branch>refs/heads/master</branch>
-                    <merge>true</merge>
+                    <merge>false</merge>
                     <includes>
                         <include>**/*</include>
                     </includes>
